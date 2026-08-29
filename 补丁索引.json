@@ -1,0 +1,38 @@
+{
+  "type": "patch",
+  "version": 1,
+  "updated": "2026-08-29T03:28:18.397Z",
+  "mirrors": [],
+  "items": [
+    {
+      "id": "png0005",
+      "name": "阿伦·艾弗森01赛季面补补丁",
+      "file": "png0005.iff",
+      "path": "png0005.iff",
+      "size": 527636,
+      "md5": "a88a5e45007403602f5a6528cdad438d",
+      "date": "2026-08-29",
+      "downloads": 0
+    },
+    {
+      "id": "png1507.iff",
+      "name": "德里克·罗斯寸头面补补丁",
+      "file": "png1507.iff.iff",
+      "path": "png1507.iff.iff",
+      "size": 504407,
+      "md5": "26b3f30173f76340b23ecf0c21360f84",
+      "date": "2026-08-29",
+      "downloads": 0
+    },
+    {
+      "id": "png0195.iff",
+      "name": "科比·布莱恩特面补修复",
+      "file": "png0195.iff.iff",
+      "path": "png0195.iff.iff",
+      "size": 469017,
+      "md5": "d60af64cd8e0867eb934cc32d0d294a9",
+      "date": "2026-08-29",
+      "downloads": 0
+    }
+  ]
+}
